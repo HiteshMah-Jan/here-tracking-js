@@ -194,3 +194,4 @@ You want to contribute to this library? Welcome! Please read the [CONTRIBUTING.m
 Copyright (C) 2017-2019 HERE Europe B.V.
 
 MIT license, see the [LICENSE](LICENSE) file in the root of this project for license details.
+Trigger 1
